@@ -44,5 +44,4 @@
 | MicroSD Card | 10 | 10 | $7.25 | $72.50 | [Amazon](https://www.amazon.ca/Cloudisk-10Pack-Memory-Adapter-TF-Black-10/dp/B0D2TCM9Z4/) |
 | Weatherproof Enclosure | 2 | 10 | $16.30 | $163.00 | [Amazon](https://www.amazon.ca/Zulkit-Waterproof-Electrical-Electronic-100X68X50mm/dp/B0G2KXX5Z4) |
 | Momentary Switch | 10 | 10 | $2.12 | $21.20 | [AliExpress](https://www.aliexpress.com/item/1005008777117179.html) |
-| **Total** | | | | **$475.30** | |
-| **Per Device** | | | | **$47.53** | |
+| **Costs** | | | **$47.53** | **$475.30** | |
