@@ -1,3 +1,5 @@
+> ⚠️ OUTDATED — This document is from the single-board architecture. Will be refreshed after the two-board (ESP32-CAM + Arduino Nano) spec is complete.
+
 # Sourcing List — Wilderness QR Checkpoint Device
 
 ## Per Device
@@ -44,4 +46,8 @@
 | MicroSD Card | 10 | 10 | $7.25 | $72.50 | [Amazon](https://www.amazon.ca/Cloudisk-10Pack-Memory-Adapter-TF-Black-10/dp/B0D2TCM9Z4/) |
 | Weatherproof Enclosure | 2 | 10 | $16.30 | $163.00 | [Amazon](https://www.amazon.ca/Zulkit-Waterproof-Electrical-Electronic-100X68X50mm/dp/B0G2KXX5Z4) |
 | Momentary Switch | 10 | 10 | $2.12 | $21.20 | [AliExpress](https://www.aliexpress.com/item/1005008777117179.html) |
-| **Costs** | | | **$47.53** | **$475.30** | |
+| FQP27P06 P-Channel MOSFET | 10 | 10 | $0.61 | $6.10 | [AliExpress](https://www.aliexpress.com/item/1005009481553990.html) |
+| Arduino Nano (ATMEGA328P) | 10 | 10 | $3.38 | $33.79 | [AliExpress](https://www.aliexpress.com/item/1005009007048978.html) |
+| 5-Position DIP Switch | 10 | 10 | $0.62 | $6.19 | [AliExpress](https://www.aliexpress.com/item/1005010793077954.html) |
+| 10kΩ 1kΩ 2kΩ Resistor Kit | 10 | 10 | $0.83 | $8.31 | [AliExpress](https://www.aliexpress.com/item/1005011772534173.html) |
+| **Costs** | | | **52.97** | **$529.69** | |

@@ -1,3 +1,5 @@
+> ⚠️ OUTDATED — This document is from the single-board architecture. Will be refreshed after the two-board (ESP32-CAM + Arduino Nano) spec is complete.
+
 # Flashing & Hardware Setup Guide
 
 ## Prerequisites
