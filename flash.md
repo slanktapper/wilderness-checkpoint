@@ -47,7 +47,7 @@ Plug the ESP32-CAM into the ESP32-CAM-MB programmer board, connect via USB-C, th
 pio run -e esp32cam -t upload
 ```
 
-If upload fails, hold the IO0 button on the ESP32-CAM-MB while pressing reset, then retry.
+The ESP32-CAM-MB programmer handles boot mode automatically. If upload fails, check the COM port is correct and drivers are installed. Try unplugging and replugging the USB cable.
 
 After flashing, remove the ESP32-CAM from the programmer board — it will be powered by the Nano via the MOSFET in the final assembly.
 
